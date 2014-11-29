@@ -9,7 +9,7 @@
 # env init 
 export PROJECT_NAME="$1"
 export PORT="$2"
-source ./env.sh 
+source ./env 
 
 
 WEB_CONF_DIR="${CONF_HOME}"/"${PROJECT_NAME}-${PORT}-conf" #配置目录
