@@ -8,6 +8,7 @@
 #脚本输出根目录
 TARGET_DIR="/Users/wangjun/script/$PROJECT_NAME-$PORT"
 JETTY_HOME_DIR="/Users/wangjun/software/server/jetty-distribution-9.2.2.v20140723"
+GIT_URL="git@git.s.hehua.com" 
 #web配置目录
 CONF_HOME="${TARGET_DIR}"
 #web运行log文件位置
